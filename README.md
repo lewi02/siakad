@@ -1,6 +1,7 @@
 # siakad
 
-untuk mendapatkan databasenya silahkan donasi seiklasnya ke rekening Berikut 
+untuk mendapatkan databasenya silahkan donasi seiklasnya ke rekening Berikut:
+
 A/n: Lewi Kiswanto
 No.Rek: 6795066865
 Bank BCA
