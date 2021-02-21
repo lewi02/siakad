@@ -6,4 +6,5 @@ A/n: Lewi Kiswanto
 No.Rek: 6795066865
 Bank BCA
 
-Serta Kirimkan Bukti di wa 082292396640
+Serta Kirimkan Bukti di 
+wa 082292396640
