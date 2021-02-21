@@ -1,5 +1,8 @@
 # siakad
-
+untuk Demonya 
+https://siakadsst.simfael.com/
+Username : admin
+password : 12
 untuk mendapatkan databasenya silahkan donasi seiklasnya ke rekening Berikut:
 
 A/n: Lewi Kiswanto
