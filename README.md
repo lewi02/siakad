@@ -1,7 +1,7 @@
 # siakad
 untuk Demonya 
 
-https://siakadsst.simfael.com/
+https://siakadsmp.lalapanpecel.com/
 
 Username : admin
 
